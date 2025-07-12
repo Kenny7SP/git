@@ -1,0 +1,24 @@
+ {
+    border: 2px solid red
+}
+
+img {
+    background-color: rgb(255, 251, 212);
+    padding: 20px;
+    padding-bottom: 50px;
+    margin: 16 auto;
+}
+
+.group {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 4px;
+    padding-right: 120px ;
+    padding-top: 12px;
+}
+.recipe {
+    padding-bottom: 6px;
+}
+.home {
+    text-align: center;
+    padding-top: 32px;
+}
